@@ -1,5 +1,9 @@
 [build]
   command = "npm run build"
+  publish = ".next"  # Change this from "/opt/build/repo" to ".next"
+
+[build.environment]
+  # Your environment variables here...
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
