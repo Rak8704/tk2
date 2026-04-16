@@ -1,0 +1,3 @@
+{
+  "/(protected)/withdraw/page": "app/(protected)/withdraw/page.js"
+}

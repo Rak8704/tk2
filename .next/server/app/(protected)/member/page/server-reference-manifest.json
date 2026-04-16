@@ -1,0 +1,16 @@
+{
+  "node": {
+    "7f17b086415ca2dec99ca30efa627422cc89fafb95": {
+      "workers": {
+        "app/(protected)/member/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protected)/member/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/action/logout.ts [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protected)/member/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
